@@ -17,13 +17,13 @@ The Hospital Management System (HMS) is a software application designed to manag
 
 🛠️ Tech Stack
 
-Frontend: [React / Angular / Vue / etc.]
+Frontend: React / Angular 
 
-Backend: [Node.js / Django / Spring Boot / etc.]
+Backend: Node.js
 
-Database: [MySQL / PostgreSQL / MongoDB]
+Database:  MongoDB
 
-Styling: [Bootstrap / Tailwind CSS]
+Styling:  Tailwind CSS
 
 Use Cases
 
